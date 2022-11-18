@@ -1,0 +1,165 @@
+body, .middle-container, .bottom-container {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  background-color: #79DAE8;
+}
+
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #0E185F;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #0F0E0E 6px;
+  border-bottom: 0;
+  width: 4%;
+  margin: 50px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.contact {
+  padding: 20px;
+  margin: 0;
+}
+
+.footer-link {
+  margin: 10px;
+  text-decoration: none;
+}
+
+.memory-verse {
+  background-color: #79DAE8
+}
+
+.myskills {
+  margin-bottom: 10px;
+}
+
+.profile_pic {
+  padding: 100px;
+  border-radius: 50%;
+}
+
+.top-container {
+  background-color: #E8F9FD;
+  position: relative;
+  padding-top: 40px;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+}
+
+.clock {
+  color: #79DAE8;
+  font-size: 3rem;
+  padding: 20px 0;
+}
+
+.p0 {
+  width: 30%;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.p1 {
+  position:relative;
+  left: 30px;
+}
+
+.p2 {
+  position:relative;
+  right: 30px;
+}
+
+.p3 {
+  position:relative;
+  left: 30px;
+}
+
+.p4 {
+  position:relative;
+  right: 30px;
+}
+
+.p5 {
+  margin: 0;
+}
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill_image1 {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.skill_image2 {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.skill_image3 {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.myButton {
+	box-shadow: 0 1px 0 0 #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #b57816 100%);
+	background-color:#ffec64;
+	border-radius:17px;
+	border:4px solid #bd7f22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Courier New;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 19px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #ffee66;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #b57816 5%, #ffec64 100%);
+	background-color:#b57816;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+  padding: 50px 0;
+}
