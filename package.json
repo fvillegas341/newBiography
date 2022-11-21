@@ -4,6 +4,7 @@
   "description": "My site node",
   "main": "sites.js",
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "frank",
