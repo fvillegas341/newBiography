@@ -30,7 +30,7 @@ hr {
   border: dotted #0F0E0E 6px;
   border-bottom: 0;
   width: 4%;
-  margin: 50px auto;
+  margin: 100px auto;
 }
 
 p {
@@ -41,7 +41,6 @@ p {
   padding: 20px;
   margin: 0;
 }
-
 .footer-link {
   margin: 10px;
   text-decoration: none;
